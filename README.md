@@ -1,6 +1,6 @@
-# NW-02-Integrated-Routing-Switching-Lab
+# NW-02-Integrated-VLAN-Routing-Project
 
-**Project:** Integrated VLAN and Routing Lab  
+**Project:** Integrated VLAN and Routing Project  
 **Skills:** VLANs, InterVLAN Routing, DHCP, Static Routing, Switch Security, Device Configuration  
 **Completion:** 85%  
 
@@ -17,7 +17,7 @@ This project is a **multi-device networking lab completed under timed, high-pres
 - Switchport security on designated ports  
 - Verified connectivity  
 
-> Note: The original Packet Tracer file from the lab could not be included due to exam content restrictions.  
+> Note: The original Packet Tracer file from the project could not be included due to exam content restrictions.  
 
 ---
 
